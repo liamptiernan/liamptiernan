@@ -9,12 +9,14 @@
 
 <h3>🔭 Currently Working At / On</h3>
   <div>
-    <img src="https://img.shields.io/badge/BuzzFeed-Developer, Production Technology-666?labelColor=EE3322&logo=BuzzFeed&logoColor=fff&style=for-the-badge" alt="BuzzFeed Badge"/>
+    <img src="https://img.shields.io/badge/BuzzFeed-EE3322?logo=BuzzFeed&logoColor=fff&style=for-the-badge" alt="BuzzFeed Badge"/>
+  <p> - Developer, Production Technology</p>
   </div>
   <div>
     <a href="https://parcels.liamtiernan.dev">
-      <img src="https://img.shields.io/badge/ParcelParse-Property Analysis App-666?labelColor=111&style=for-the-badge" alt="ParcelParse Badge"/>
+      <img src="https://img.shields.io/badge/ParcelParse-parcels.liamtiernan.dev-666?labelColor=111&style=for-the-badge" alt="ParcelParse Badge"/>
     </a>
+    <p> - Property Data Analysis App</p>
   </div>
 
 <h3>🖥️ My Current Tech Stack</h3>
