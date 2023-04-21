@@ -9,10 +9,7 @@
 
 <h3>🔭 Currently Working At / On</h3>
   <div>
-    <a href="https://parcels.liamtiernan.dev">
-      <img src="https://img.shields.io/badge/ParcelParse-parcels.liamtiernan.dev-666?labelColor=111&style=for-the-badge" alt="ParcelParse Badge"/>
-    </a>
-    <p> - Property Data Analysis App</p>
+    MMIT - Senior Software Engineer
   </div>
 
 <h3>🖥️ My Current Tech Stack</h3>
