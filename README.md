@@ -9,7 +9,7 @@
 
 <h3>🔭 Currently Working At / On</h3>
   <div>
-    MMIT - Senior Software Engineer
+    MMIT - Technical Lead
   </div>
 
 <h3>🖥️ My Current Tech Stack</h3>
